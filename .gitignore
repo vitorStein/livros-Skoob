@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+dados_brutos/
+./dados_brutos/
+
 # C extensions
 *.so
 
